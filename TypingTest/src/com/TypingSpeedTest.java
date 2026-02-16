@@ -1,4 +1,4 @@
-package test;
+package com;
 
 import javax.swing.*;
 import java.awt.*;
